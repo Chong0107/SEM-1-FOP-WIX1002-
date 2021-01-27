@@ -13,10 +13,10 @@
 - *Choose the FREE version for the download of Intellij IDE
 
 ## Advice for students who are studying FOP in UM
-   *Do more research on the Java programming language from GOOGLE
-   *Make sure all the tutorial must complete and do more exercises
-   *Ask seniors or demo when you meet with problems on your programming code
-   *Good luck and ALL THE BEST !
+   - Do more research on the Java programming language from GOOGLE
+   - Make sure all the tutorial must complete and do more exercises
+   - Ask seniors or demo when you meet with problems on your programming code
+   - Good luck and ALL THE BEST !
 
 ## Dictionary for Java Programming Code
    - (https://docs.oracle.com/en/java/javase/15/docs/api/java.base/java/util/Formatter.html#syntax)
