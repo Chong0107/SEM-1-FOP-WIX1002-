@@ -1,6 +1,6 @@
 
 ## SEM 1 (WIX1002: Fundermental of Pragramming)
-    - Flie included:
+      Files included:
     - (i)Extra Java Code
     - (ii)Lab Answer (Lab 1 - Lab 10)
     - (iii)Past Year Answer (Sample Question and More answer can refer to this link (https://github.com/onghengkiat/Sem1-FOP/tree/main/PastYearQuestion))
